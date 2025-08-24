@@ -14,13 +14,13 @@ import { cn } from "@/lib/utils";
 
 const testimonials = [
     {
-        text: "UNFILTER.AI helped me discover my strengths in Class 10 and choose the right stream for my future goals.",
+        text: "Career Compass helped me discover my strengths in Class 10 and choose the right stream for my future goals.",
         imageSrc: avatar1.src,
         name: "Priya Sharma",
         username: "@priya_futurepath",
     },
     {
-        text: "As a Class 9 student, UNFILTER.AI's career compass showed me paths I never knew existed beyond traditional careers.",
+        text: "As a Class 9 student, Career Compass's career compass showed me paths I never knew existed beyond traditional careers.",
         imageSrc: avatar2.src,
         name: "Arjun Patel",
         username: "@arjun_explores",
@@ -32,7 +32,7 @@ const testimonials = [
         username: "@ananya_smartchoices",
     },
     {
-        text: "UNFILTER.AI's career guidance helped me explore future paths beyond what my parents suggested.",
+        text: "Career Compass's career guidance helped me explore future paths beyond what my parents suggested.",
         imageSrc: avatar4.src,
         name: "Rohan Kumar",
         username: "@rohan_pathfinder",
@@ -44,7 +44,7 @@ const testimonials = [
         username: "@kavya_discovers",
     },
     {
-        text: "Starting early with UNFILTER.AI in Class 9 gave me a clear direction for my academic journey.",
+        text: "Starting early with Career Compass in Class 9 gave me a clear direction for my academic journey.",
         imageSrc: avatar6.src,
         name: "Aditya Gupta",
         username: "@aditya_earlystart",
@@ -56,7 +56,7 @@ const testimonials = [
         username: "@sneha_informed",
     },
     {
-        text: "UNFILTER.AI showed me how to leverage my strengths early and build skills for my dream career.",
+        text: "Career Compass showed me how to leverage my strengths early and build skills for my dream career.",
         imageSrc: avatar8.src,
         name: "Vikram Mehta",
         username: "@vikram_builds",
@@ -132,7 +132,7 @@ export function Testimonials() {
                     What our students say
                 </h2>
                 <div className="text-xl text-white/70 tracking-tight mt-5 max-w-2xl mx-auto">
-                    See how UNFILTER.AI's career compass has helped Class 9–12 students discover their strengths, explore future paths, and make smarter academic choices early in their journey.
+                    See how Career Compass's career compass has helped Class 9–12 students discover their strengths, explore future paths, and make smarter academic choices early in their journey.
                 </div>
             </div>
             <div className="flex justify-center gap-6 [mask-image:linear-gradient(to_bottom,transparent,black_25%,black_75%,transparent)] max-h-[738px] overflow-hidden mt-10">

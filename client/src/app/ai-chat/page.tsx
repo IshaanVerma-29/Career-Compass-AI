@@ -61,7 +61,7 @@ export default function AIChatPage() {
         {/* Header */}
         <div className="mb-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-[#7D47EA] via-[#9D5CFF] to-[#FF6B35] bg-clip-text text-transparent">
-            UNFILTER AI Assistant
+            Career Compass Assistant
           </h1>
         </div>
 

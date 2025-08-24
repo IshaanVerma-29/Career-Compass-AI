@@ -43,7 +43,7 @@ export default function SignInPage() {
                     <h1 className='text-3xl font-bold text-white mb-2'>
                         Sign In
                     </h1>
-                    <p className='text-gray-300'>Welcome to UNFILTER.AI</p>
+                    <p className='text-gray-300'>Welcome to Career Compass</p>
                 </div>
                 
                 <form onSubmit={handleSubmit} className='space-y-6'>

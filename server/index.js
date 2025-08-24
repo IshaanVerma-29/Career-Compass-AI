@@ -42,5 +42,5 @@ connectMongoDB()
 
 // Default Route
 app.get("/", (req, res) => {
-    res.send("🚀 Welcome to UNFILTER.AI Backend");
+    res.send("🚀 Welcome to Career Compass Backend");
 });

@@ -1,4 +1,4 @@
-# 🎯 UNFILTER.AI
+# 🎯 Career Compass
 
 **AI-Powered Career Compass for Class 9–12 Students**
 
@@ -9,9 +9,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-## 🌟 **What is UNFILTER.AI?**
+## 🌟 **What is Career Compass?**
 
-UNFILTER.AI is a revolutionary career guidance platform designed specifically for **Class 9-12 students** who are at the crossroads of their academic journey. Instead of sugar-coating reality, we provide **honest, AI-powered insights** to help young minds make informed decisions about their future.
+Career Compass is a revolutionary career guidance platform designed specifically for **Class 9-12 students** who are at the crossroads of their academic journey. Instead of sugar-coating reality, we provide **honest, AI-powered insights** to help young minds make informed decisions about their future.
 
 ### 🎯 **Perfect For:**
 - **Class 9 Students** - Early career exploration and stream selection

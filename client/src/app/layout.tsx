@@ -18,13 +18,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "UNFILTER.AI",
+  title: "Career Compass",
   description:
-    "UNFILTER.AI - Honest career guidance for NEET/JEE/UPSC aspirants. Get realistic success predictions, explore backup options, and make informed career decisions.",
+    "Career Compass - Honest career guidance for NEET/JEE/UPSC aspirants. Get realistic success predictions, explore backup options, and make informed career decisions.",
   openGraph: {
-    title: "UNFILTER.AI",
+    title: "Career Compass",
     description:
-      "UNFILTER.AI - Honest career guidance for NEET/JEE/UPSC aspirants. Get realistic success predictions, explore backup options, and make informed career decisions.",
+      "Career Compass - Honest career guidance for NEET/JEE/UPSC aspirants. Get realistic success predictions, explore backup options, and make informed career decisions.",
     type: "website",
   },
 };

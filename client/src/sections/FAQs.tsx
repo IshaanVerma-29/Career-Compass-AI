@@ -17,8 +17,8 @@ export default function FAQs() {
 
     const questions = [
         {
-            question: "What is UNFILTER.AI?",
-            answer: "UNFILTER.AI is an all-in-one platform that helps NEET/JEE/UPSC aspirants make informed career decisions. It provides honest success predictions, explores backup career paths, and offers realistic guidance without any filters or false promises."
+            question: "What is Career Compass?",
+            answer: "Career Compass is an all-in-one platform that helps NEET/JEE/UPSC aspirants make informed career decisions. It provides honest success predictions, explores backup career paths, and offers realistic guidance without any filters or false promises."
         },
         {
             question: "How does the AI Career Advisor help me?",
@@ -37,19 +37,19 @@ export default function FAQs() {
             answer: "Our AI-powered chatbot simulates real interview scenarios, providing relevant questions and giving instant feedback. It helps you practice and improve your responses before the actual interview."
         },
         {
-            question: "Is UNFILTER.AI suitable for beginners?",
+            question: "Is Career Compass suitable for beginners?",
             answer: "Absolutely! Whether you’re a student, a job seeker, or an experienced professional, our AI-driven tools are designed to guide you at every step of your career journey."
         },
         {
             question: "Do I need any coding skills to use this platform?",
-            answer: "No, UNFILTER.AI is user-friendly and requires no coding knowledge. The platform is designed for everyone, from tech professionals to non-tech users."
+            answer: "No, Career Compass is user-friendly and requires no coding knowledge. The platform is designed for everyone, from tech professionals to non-tech users."
         },
         {
-            question: "Is UNFILTER.AI free to use?",
+            question: "Is Career Compass free to use?",
             answer: "Some features are available for free, while premium features may require a subscription. Check our pricing page for more details."
         },
         {
-            question: "How do I get started with UNFILTER.AI?",
+            question: "How do I get started with Career Compass?",
             answer: "Simply sign up on our platform, explore the tools, and start building your career with AI-powered assistance!"
         }
     ];

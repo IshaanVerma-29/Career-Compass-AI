@@ -201,7 +201,7 @@ export default function DashboardPage() {
                         <MessageSquare className="w-8 h-8 text-[#7D47EA]" />
                       </div>
                       <div>
-                        <h3 className="text-xl font-bold group-hover:text-[#7D47EA] transition-colors">UNFILTER AI Career</h3>
+                        <h3 className="text-xl font-bold group-hover:text-[#7D47EA] transition-colors">Career Compass AI</h3>
                         <p className="text-gray-400 text-sm">Ask anything about careers</p>
                       </div>
                     </div>

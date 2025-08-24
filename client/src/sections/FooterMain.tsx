@@ -9,14 +9,14 @@ export default function FooterMain() {
             <Link href="/" passHref>
               <div className="flex items-center justify-center space-x-2 text-2xl font-bold text-center text-gray-100 selection:bg-emerald-500 mr-10 py-0 cursor-pointer">
                 <div className="flex flex-col">
-                  <h1 className="text-white font-chillax">UNFILTER.AI</h1>
+                  <h1 className="text-white font-chillax">Career Compass</h1>
                 </div>
               </div>
             </Link>
           </div>
           <div>
             Product by{' '}
-            <span className="text-sky-500 font-medium">Avengers</span>
+            <span className="text-sky-500 font-medium">Team Innovators</span>
           </div>
           <div className="mt-2">
             contact at{' '}

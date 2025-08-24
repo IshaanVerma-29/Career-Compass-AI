@@ -1,12 +1,12 @@
-# 🎯 UNFILTER.AI
+# 🎯 Career Compass
 
 **AI-Powered Career Compass for Class 9–12 Students**
 
 > Discover Your Strengths, Explore Future Paths, and Make Smarter Career Choices Early — Without Any Filters!
 
-## 🌟 **About UNFILTER.AI**
+## 🌟 **About Career Compass**
 
-UNFILTER.AI is a revolutionary career guidance platform designed specifically for **Class 9-12 students** in India. We provide honest, AI-powered insights to help young minds make informed decisions about their academic and career future.
+Career Compass is a revolutionary career guidance platform designed specifically for **Class 9-12 students** in India. We provide honest, AI-powered insights to help young minds make informed decisions about their academic and career future.
 
 ### 🎯 **Target Audience:**
 - **Class 9 Students** - Early career exploration and academic planning
@@ -41,7 +41,7 @@ UNFILTER.AI is a revolutionary career guidance platform designed specifically fo
 ## 🛠️ **Project Structure**
 
 ```
-UNFILTER.AI/
+Career Compass/
 ├── client/          # Next.js frontend application
 │   ├── src/
 │   │   ├── app/     # App router pages
@@ -71,7 +71,7 @@ UNFILTER.AI/
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd UNFILTER.AI
+cd Career Compass
 ```
 
 2. **Setup Frontend**
@@ -146,7 +146,7 @@ npm run dev
 
 ---
 
-## 🌟 **Why UNFILTER.AI?**
+## 🌟 **Why Career Compass?**
 
 ### **The Problem**
 - Most career guidance platforms give false hopes to students

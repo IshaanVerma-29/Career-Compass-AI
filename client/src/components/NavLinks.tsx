@@ -15,7 +15,7 @@ export const projects = [
     description: "Your learning dashboard"
   },
   {
-    title: "UNFILTER AI Career",
+    title: "Career Compass AI",
     link: "ai-chat",
     description: "Ask anything about careers"
   },

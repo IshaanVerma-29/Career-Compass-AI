@@ -1,7 +1,7 @@
 {
   "name": "unfilter-ai-backend",
   "version": "1.0.0",
-  "description": "Backend for UNFILTER.AI - AI-powered career compass for Class 9-12 students with honest guidance, psychometric testing, and career predictions.",
+  "description": "Backend for Career Compass - AI-powered career compass for Class 9-12 students with honest guidance, psychometric testing, and career predictions.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

@@ -35,7 +35,7 @@ export default function Navbar() {
             href="/"
             className="font-medium font-chillax text-[1.2rem] md:text-[1.5rem] text-white"
           >
-            UNFILTER.AI
+            Career Compass
           </Link>
         </div>
 

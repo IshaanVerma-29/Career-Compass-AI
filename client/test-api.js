@@ -8,7 +8,7 @@ console.log("Message:", testMessage);
 const mockAPITest = () => {
   // Simulate what our API should return
   const response = {
-    response: "Hey! Namaste! 🙏 Main UNFILTER AI hoon, aapka smart assistant! Aap mujhse kuch bhi puchh sakte hain!",
+    response: "Hey! Namaste! 🙏 Main Career Compass AI hoon, aapka smart assistant! Aap mujhse kuch bhi puchh sakte hain!",
     timestamp: new Date().toISOString()
   };
   
