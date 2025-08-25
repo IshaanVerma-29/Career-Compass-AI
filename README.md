@@ -163,30 +163,31 @@ npm run dev
 
 ---
 
-## 🤝 **Contributing**
+🚫 Contributing
 
-We welcome contributions from developers, educators, and career counselors!
+This project is proprietary and is not open for external contributions.
+All development, updates, and maintenance are handled exclusively by the author.
 
-### **How to Contribute**
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+Pull requests will not be accepted.
 
-### **Areas for Contribution**
-- UI/UX improvements
-- Additional AI model integrations
-- Career database expansion
-- Mobile app development
-- Regional language support
+Forking or redistributing this project is strictly prohibited.
 
----
+Any unauthorized contributions or use of this code may result in takedown requests and copyright enforcement.
 
-## 📄 **License**
+If you have suggestions or feedback, please contact the author directly, but note that implementation is at the sole discretion of the project owner.
 
-This project is licensed under the MIT License.
+Copyright (c) 2025 [Ishaan Verma]
 
----
+This repository and its contents are protected under applicable
+copyright and intellectual property law.
+
+No part of this project may be reproduced, modified, distributed,
+or used in any form or by any means, electronic, mechanical, or
+otherwise, without the prior written authorization of the copyright holder.
+
+Violation of these terms may result in legal action, including but not
+limited to takedown requests, copyright strikes, and claims for damages.
+
 
 ## 🙏 **Acknowledgments**
 
